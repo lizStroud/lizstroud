@@ -1,6 +1,6 @@
 <h2 align="center">Hello 👋 I'm Liz</h2>
 
-- 🔭 I'm currently working at [Aevex]([https://www.blacksea.tech/](https://aevex.com/)) as a SWE
+- 🔭 I'm currently working at [Aevex]([https://aevex.com/]) as a SWE
 - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/liz-stroud/)!
 
 ## Where to find me
